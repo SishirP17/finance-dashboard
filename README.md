@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard by Sishir Phuyal
+# 💰 Finance Dashboard by Sishir Phuyal v2
 
 A personal finance dashboard that parses bank transaction CSVs, categorizes spending, visualizes money in vs out over time, and uses the Claude API to generate personalized financial suggestions.
 
